@@ -1,5 +1,5 @@
-Curso de programación JavaRetos de programación con juegos. Python y Java 
-=========================================================================
+Retos de programación con juegos. Python y Java 
+===============================================
 
 Repositorio de ejemplos y ejercicios
 ------------------------------------
@@ -21,22 +21,22 @@ Algunas nociones para empezar a utilizar el repositorio:
 
 Capítulos
 ---------
-1. Eco, eco
-2. Pares o nones
-3. Adivina un número
-4. Piedra, papel, tijeras
-5. El ahorcado
-6. Tres en raya
-7. Memory
-8. Buscaminas
-9. Lingo
+1. [Eco, eco](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap01)
+2. [Pares o nones](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap02)
+3. [Adivina un número](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap03)
+4. [Piedra, papel, tijeras](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap04)
+5. [El ahorcado](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap05)
+6. [Tres en raya](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap06)
+7. [Memory](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap07)
+8. [Buscaminas](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap08)
+9. [Lingo](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap09)
 10. Entornos de desarrollo
-11. Depuración
+11. [Depuración](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap11)
 12. Fundamentos de la programación
-13. Programación estructurada
-14. Programación orientada a objetos
-15. Programación dirigida por eventos
-16. Interfaz gráfica de usuario
+13. [Programación estructurada](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap13)
+14. [Programación orientada a objetos](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap14)
+15. [Programación dirigida por eventos](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap15)
+16. [Interfaz gráfica de usuario](https://github.com/DSRschool/Anaya-MI-Juegos/tree/main/cap16)
 
 Garantía
 --------
